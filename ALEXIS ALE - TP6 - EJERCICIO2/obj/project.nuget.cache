@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sboU2AKfooq4X3e8ARqjAk3vRKX3Xr++6HZzE6Zs38ywfokbKSeGXUzgo+nXiVI1KlfIqRmKqpOK9FlBKZh59Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\Documents\\myPenDrive\\Taller de Lenguaje I\\2020\\trabajoPractico6\\ALEXIS ALE - TRABAJO PRACTICO 6 - TALLER DE LENGUAJES\\ALEXIS ALE - TP6 - EJERCICIO2\\ALEXIS ALE - TP6 - EJERCICIO2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

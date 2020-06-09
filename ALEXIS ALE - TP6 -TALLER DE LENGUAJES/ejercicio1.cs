@@ -25,14 +25,7 @@ namespace ALEXIS_ALE___TRABAJO_PRACTICO_6___TALLER_DE_LENGUAJES
         public int inversor(int num)
         {
             int aux, inverso = 0;
-            /*if (num == 0)
-            {
-                return num;
-            }
-            else
-            {
-                return ((num % 10) * inversor(num / 10));
-            }*/
+            
             while (num > 0)
             {
                 aux = num % 10;
